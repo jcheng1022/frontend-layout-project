@@ -1,7 +1,7 @@
 
 const Header = () => {
     return (
-        <div>
+        <div className="flex justify-between items-center p-4">
             <div>
                 Layout Project
             </div>
