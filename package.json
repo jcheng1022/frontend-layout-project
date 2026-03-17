@@ -15,11 +15,15 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/fabric": "^5.3.11",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.1.7",
+    "fabric": "^7.2.0",
+    "i": "^0.3.7",
+    "npm": "^11.11.1",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
